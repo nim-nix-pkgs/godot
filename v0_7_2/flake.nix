@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-godot-v0_7_2.flake = false;
+  inputs.src-godot-v0_7_2.ref   = "refs/tags/v0.7.2";
   inputs.src-godot-v0_7_2.owner = "pragmagic";
-  inputs.src-godot-v0_7_2.ref   = "v0_7_2";
   inputs.src-godot-v0_7_2.repo  = "godot-nim";
   inputs.src-godot-v0_7_2.type  = "github";
   

@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-godot-master.flake = false;
+  inputs.src-godot-master.ref   = "refs/heads/master";
   inputs.src-godot-master.owner = "pragmagic";
-  inputs.src-godot-master.ref   = "master";
   inputs.src-godot-master.repo  = "godot-nim";
   inputs.src-godot-master.type  = "github";
   
