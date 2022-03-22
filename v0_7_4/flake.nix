@@ -1,5 +1,5 @@
 {
-  description = ''Nim bindings for Godot Engine'';
+  description = ''Godot Engine bindings'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,13 +9,14 @@
   
   inputs.src-godot-v0_7_4.flake = false;
   inputs.src-godot-v0_7_4.owner = "pragmagic";
-  inputs.src-godot-v0_7_4.ref   = "refs/tags/v0.7.4";
+  inputs.src-godot-v0_7_4.ref   = "v0_7_4";
   inputs.src-godot-v0_7_4.repo  = "godot-nim";
   inputs.src-godot-v0_7_4.type  = "github";
   
   inputs."compiler".owner = "nim-nix-pkgs";
   inputs."compiler".ref   = "master";
   inputs."compiler".repo  = "compiler";
+  inputs."compiler".dir   = "v1_6_4";
   inputs."compiler".type  = "github";
   inputs."compiler".inputs.nixpkgs.follows = "nixpkgs";
   inputs."compiler".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
