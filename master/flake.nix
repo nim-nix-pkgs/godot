@@ -11,6 +11,7 @@
   inputs.src-godot-master.ref   = "refs/heads/master";
   inputs.src-godot-master.owner = "pragmagic";
   inputs.src-godot-master.repo  = "godot-nim";
+  inputs.src-godot-master.dir   = "";
   inputs.src-godot-master.type  = "github";
   
   inputs."compiler".owner = "nim-nix-pkgs";
