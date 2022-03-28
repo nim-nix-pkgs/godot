@@ -11,7 +11,6 @@
   inputs.src-godot-v0_6_4.ref   = "refs/tags/v0.6.4";
   inputs.src-godot-v0_6_4.owner = "pragmagic";
   inputs.src-godot-v0_6_4.repo  = "godot-nim";
-  inputs.src-godot-v0_6_4.dir   = "";
   inputs.src-godot-v0_6_4.type  = "github";
   
   inputs."compiler".owner = "nim-nix-pkgs";
