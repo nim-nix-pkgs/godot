@@ -1,1919 +1,5 @@
 {
   "nodes": {
-    "compiler": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-master",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-master",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1660781863,
-        "narHash": "sha256-T5aM/ELu0DzlWZ+xmAgSfuhtss8fgzRYT7QnNbWsNZI=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "30da48045b255bdaea4d3aa53761123ab2452f4e",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_10": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_4_0",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_4_0",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_10"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_11": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_4_1",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_4_1",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_11"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_12": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_5_0",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_5_0",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_12"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_13": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_5_1",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_5_1",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_13"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_14": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_5_10",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_5_10",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_14"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_15": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_5_2",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_5_2",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_15"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_16": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_5_3",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_5_3",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_16"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_17": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_5_4",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_5_4",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_17"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_18": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_5_5",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_5_5",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_18"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_19": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_5_6",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_5_6",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_19"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_2": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_1_0",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_1_0",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_2"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_20": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_5_7",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_5_7",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_20"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_21": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_5_8",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_5_8",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_21"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_22": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_5_9",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_5_9",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_22"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_23": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_6_0",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_6_0",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_23"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_24": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_6_1",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_6_1",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_24"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_25": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_6_10",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_6_10",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_25"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_26": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_6_11",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_6_11",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_26"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_27": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_6_2",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_6_2",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_27"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_28": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_6_3",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_6_3",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_28"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_29": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_6_4",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_6_4",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_29"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_3": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_1_1",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_1_1",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_3"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_30": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_6_5",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_6_5",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_30"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_31": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_6_8",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_6_8",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_31"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_32": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_6_9",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_6_9",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_32"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_33": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_0",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_0",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_33"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_34": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_1",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_1",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_34"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_35": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_10",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_10",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_35"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_36": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_11",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_11",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_36"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_37": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_12",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_12",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_37"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_38": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_13",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_13",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_38"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_39": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_14",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_14",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_39"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_4": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_2_0",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_2_0",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_4"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_40": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_15",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_15",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_40"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_41": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_16",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_16",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_41"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_42": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_17",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_17",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_42"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_43": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_19",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_19",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_43"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_44": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_2",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_2",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_44"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_45": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_20",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_20",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_45"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_46": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_21",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_21",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_46"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_47": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_22",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_22",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_47"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_48": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_23",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_23",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_48"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_49": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_24",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_24",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_49"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_5": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_2_1",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_2_1",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_5"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_50": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_25",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_25",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_50"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_51": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_26",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_26",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_51"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_52": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_27",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_27",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_52"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_53": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_28",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_28",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_53"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_54": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_3",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_3",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_54"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_55": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_4",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_4",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_55"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_56": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_5",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_5",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_56"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_57": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_6",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_6",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_57"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_58": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_7",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_7",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_58"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_59": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_8",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_8",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_59"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_6": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_2_2",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_2_2",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_6"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_60": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_7_9",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_7_9",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_60"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_61": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_8_0",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_8_0",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_61"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_62": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_8_1",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_8_1",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_62"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_63": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_8_2",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_8_2",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_63"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_64": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_8_3",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_8_3",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_64"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_65": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_8_4",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_8_4",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_65"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_66": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_8_5",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_8_5",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_66"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_7": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_2_3",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_2_3",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_7"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_8": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_2_4",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_2_4",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_8"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
-    "compiler_9": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "godot-v0_3_0",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "godot-v0_3_0",
-          "nixpkgs"
-        ],
-        "src-compiler-v1_6_6": "src-compiler-v1_6_6_9"
-      },
-      "locked": {
-        "dir": "v1_6_6",
-        "lastModified": 1651890192,
-        "narHash": "sha256-ijch4n6uqlowSKgFMIlrZxKfEofKvqug85yklt6y9Bc=",
-        "owner": "nim-nix-pkgs",
-        "repo": "compiler",
-        "rev": "4e50bfaa03d1c832e5b78368fd908e2b8a63d42a",
-        "type": "github"
-      },
-      "original": {
-        "dir": "v1_6_6",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "compiler",
-        "type": "github"
-      }
-    },
     "flakeNimbleLib": {
       "inputs": {
         "nixpkgs": [
@@ -1937,7 +23,6 @@
     },
     "godot-master": {
       "inputs": {
-        "compiler": "compiler",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -1948,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -1965,7 +50,6 @@
     },
     "godot-v0_1_0": {
       "inputs": {
-        "compiler": "compiler_2",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -1976,11 +60,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -1993,7 +77,6 @@
     },
     "godot-v0_1_1": {
       "inputs": {
-        "compiler": "compiler_3",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2004,11 +87,11 @@
       },
       "locked": {
         "dir": "v0_1_1",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2021,7 +104,6 @@
     },
     "godot-v0_2_0": {
       "inputs": {
-        "compiler": "compiler_4",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2032,11 +114,11 @@
       },
       "locked": {
         "dir": "v0_2_0",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2049,7 +131,6 @@
     },
     "godot-v0_2_1": {
       "inputs": {
-        "compiler": "compiler_5",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2060,11 +141,11 @@
       },
       "locked": {
         "dir": "v0_2_1",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2077,7 +158,6 @@
     },
     "godot-v0_2_2": {
       "inputs": {
-        "compiler": "compiler_6",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2088,11 +168,11 @@
       },
       "locked": {
         "dir": "v0_2_2",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2105,7 +185,6 @@
     },
     "godot-v0_2_3": {
       "inputs": {
-        "compiler": "compiler_7",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2116,11 +195,11 @@
       },
       "locked": {
         "dir": "v0_2_3",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2133,7 +212,6 @@
     },
     "godot-v0_2_4": {
       "inputs": {
-        "compiler": "compiler_8",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2144,11 +222,11 @@
       },
       "locked": {
         "dir": "v0_2_4",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2161,7 +239,6 @@
     },
     "godot-v0_3_0": {
       "inputs": {
-        "compiler": "compiler_9",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2172,11 +249,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2189,7 +266,6 @@
     },
     "godot-v0_4_0": {
       "inputs": {
-        "compiler": "compiler_10",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2200,11 +276,11 @@
       },
       "locked": {
         "dir": "v0_4_0",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2217,7 +293,6 @@
     },
     "godot-v0_4_1": {
       "inputs": {
-        "compiler": "compiler_11",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2228,11 +303,11 @@
       },
       "locked": {
         "dir": "v0_4_1",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2245,7 +320,6 @@
     },
     "godot-v0_5_0": {
       "inputs": {
-        "compiler": "compiler_12",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2256,11 +330,11 @@
       },
       "locked": {
         "dir": "v0_5_0",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2273,7 +347,6 @@
     },
     "godot-v0_5_1": {
       "inputs": {
-        "compiler": "compiler_13",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2284,11 +357,11 @@
       },
       "locked": {
         "dir": "v0_5_1",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2301,7 +374,6 @@
     },
     "godot-v0_5_10": {
       "inputs": {
-        "compiler": "compiler_14",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2312,11 +384,11 @@
       },
       "locked": {
         "dir": "v0_5_10",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2329,7 +401,6 @@
     },
     "godot-v0_5_2": {
       "inputs": {
-        "compiler": "compiler_15",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2340,11 +411,11 @@
       },
       "locked": {
         "dir": "v0_5_2",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2357,7 +428,6 @@
     },
     "godot-v0_5_3": {
       "inputs": {
-        "compiler": "compiler_16",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2368,11 +438,11 @@
       },
       "locked": {
         "dir": "v0_5_3",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2385,7 +455,6 @@
     },
     "godot-v0_5_4": {
       "inputs": {
-        "compiler": "compiler_17",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2396,11 +465,11 @@
       },
       "locked": {
         "dir": "v0_5_4",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2413,7 +482,6 @@
     },
     "godot-v0_5_5": {
       "inputs": {
-        "compiler": "compiler_18",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2424,11 +492,11 @@
       },
       "locked": {
         "dir": "v0_5_5",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2441,7 +509,6 @@
     },
     "godot-v0_5_6": {
       "inputs": {
-        "compiler": "compiler_19",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2452,11 +519,11 @@
       },
       "locked": {
         "dir": "v0_5_6",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2469,7 +536,6 @@
     },
     "godot-v0_5_7": {
       "inputs": {
-        "compiler": "compiler_20",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2480,11 +546,11 @@
       },
       "locked": {
         "dir": "v0_5_7",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2497,7 +563,6 @@
     },
     "godot-v0_5_8": {
       "inputs": {
-        "compiler": "compiler_21",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2508,11 +573,11 @@
       },
       "locked": {
         "dir": "v0_5_8",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2525,7 +590,6 @@
     },
     "godot-v0_5_9": {
       "inputs": {
-        "compiler": "compiler_22",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2536,11 +600,11 @@
       },
       "locked": {
         "dir": "v0_5_9",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2553,7 +617,6 @@
     },
     "godot-v0_6_0": {
       "inputs": {
-        "compiler": "compiler_23",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2564,11 +627,11 @@
       },
       "locked": {
         "dir": "v0_6_0",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2581,7 +644,6 @@
     },
     "godot-v0_6_1": {
       "inputs": {
-        "compiler": "compiler_24",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2592,11 +654,11 @@
       },
       "locked": {
         "dir": "v0_6_1",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2609,7 +671,6 @@
     },
     "godot-v0_6_10": {
       "inputs": {
-        "compiler": "compiler_25",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2620,11 +681,11 @@
       },
       "locked": {
         "dir": "v0_6_10",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2637,7 +698,6 @@
     },
     "godot-v0_6_11": {
       "inputs": {
-        "compiler": "compiler_26",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2648,11 +708,11 @@
       },
       "locked": {
         "dir": "v0_6_11",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2665,7 +725,6 @@
     },
     "godot-v0_6_2": {
       "inputs": {
-        "compiler": "compiler_27",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2676,11 +735,11 @@
       },
       "locked": {
         "dir": "v0_6_2",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2693,7 +752,6 @@
     },
     "godot-v0_6_3": {
       "inputs": {
-        "compiler": "compiler_28",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2704,11 +762,11 @@
       },
       "locked": {
         "dir": "v0_6_3",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2721,7 +779,6 @@
     },
     "godot-v0_6_4": {
       "inputs": {
-        "compiler": "compiler_29",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2732,11 +789,11 @@
       },
       "locked": {
         "dir": "v0_6_4",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2749,7 +806,6 @@
     },
     "godot-v0_6_5": {
       "inputs": {
-        "compiler": "compiler_30",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2760,11 +816,11 @@
       },
       "locked": {
         "dir": "v0_6_5",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2777,7 +833,6 @@
     },
     "godot-v0_6_8": {
       "inputs": {
-        "compiler": "compiler_31",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2788,11 +843,11 @@
       },
       "locked": {
         "dir": "v0_6_8",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2805,7 +860,6 @@
     },
     "godot-v0_6_9": {
       "inputs": {
-        "compiler": "compiler_32",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2816,11 +870,11 @@
       },
       "locked": {
         "dir": "v0_6_9",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2833,7 +887,6 @@
     },
     "godot-v0_7_0": {
       "inputs": {
-        "compiler": "compiler_33",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2844,11 +897,11 @@
       },
       "locked": {
         "dir": "v0_7_0",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2861,7 +914,6 @@
     },
     "godot-v0_7_1": {
       "inputs": {
-        "compiler": "compiler_34",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2872,11 +924,11 @@
       },
       "locked": {
         "dir": "v0_7_1",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2889,7 +941,6 @@
     },
     "godot-v0_7_10": {
       "inputs": {
-        "compiler": "compiler_35",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2900,11 +951,11 @@
       },
       "locked": {
         "dir": "v0_7_10",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2917,7 +968,6 @@
     },
     "godot-v0_7_11": {
       "inputs": {
-        "compiler": "compiler_36",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2928,11 +978,11 @@
       },
       "locked": {
         "dir": "v0_7_11",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2945,7 +995,6 @@
     },
     "godot-v0_7_12": {
       "inputs": {
-        "compiler": "compiler_37",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2956,11 +1005,11 @@
       },
       "locked": {
         "dir": "v0_7_12",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -2973,7 +1022,6 @@
     },
     "godot-v0_7_13": {
       "inputs": {
-        "compiler": "compiler_38",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -2984,11 +1032,11 @@
       },
       "locked": {
         "dir": "v0_7_13",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3001,7 +1049,6 @@
     },
     "godot-v0_7_14": {
       "inputs": {
-        "compiler": "compiler_39",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3012,11 +1059,11 @@
       },
       "locked": {
         "dir": "v0_7_14",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3029,7 +1076,6 @@
     },
     "godot-v0_7_15": {
       "inputs": {
-        "compiler": "compiler_40",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3040,11 +1086,11 @@
       },
       "locked": {
         "dir": "v0_7_15",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3057,7 +1103,6 @@
     },
     "godot-v0_7_16": {
       "inputs": {
-        "compiler": "compiler_41",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3068,11 +1113,11 @@
       },
       "locked": {
         "dir": "v0_7_16",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3085,7 +1130,6 @@
     },
     "godot-v0_7_17": {
       "inputs": {
-        "compiler": "compiler_42",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3096,11 +1140,11 @@
       },
       "locked": {
         "dir": "v0_7_17",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3113,7 +1157,6 @@
     },
     "godot-v0_7_19": {
       "inputs": {
-        "compiler": "compiler_43",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3124,11 +1167,11 @@
       },
       "locked": {
         "dir": "v0_7_19",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3141,7 +1184,6 @@
     },
     "godot-v0_7_2": {
       "inputs": {
-        "compiler": "compiler_44",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3152,11 +1194,11 @@
       },
       "locked": {
         "dir": "v0_7_2",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3169,7 +1211,6 @@
     },
     "godot-v0_7_20": {
       "inputs": {
-        "compiler": "compiler_45",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3180,11 +1221,11 @@
       },
       "locked": {
         "dir": "v0_7_20",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3197,7 +1238,6 @@
     },
     "godot-v0_7_21": {
       "inputs": {
-        "compiler": "compiler_46",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3208,11 +1248,11 @@
       },
       "locked": {
         "dir": "v0_7_21",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3225,7 +1265,6 @@
     },
     "godot-v0_7_22": {
       "inputs": {
-        "compiler": "compiler_47",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3236,11 +1275,11 @@
       },
       "locked": {
         "dir": "v0_7_22",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3253,7 +1292,6 @@
     },
     "godot-v0_7_23": {
       "inputs": {
-        "compiler": "compiler_48",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3264,11 +1302,11 @@
       },
       "locked": {
         "dir": "v0_7_23",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3281,7 +1319,6 @@
     },
     "godot-v0_7_24": {
       "inputs": {
-        "compiler": "compiler_49",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3292,11 +1329,11 @@
       },
       "locked": {
         "dir": "v0_7_24",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3309,7 +1346,6 @@
     },
     "godot-v0_7_25": {
       "inputs": {
-        "compiler": "compiler_50",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3320,11 +1356,11 @@
       },
       "locked": {
         "dir": "v0_7_25",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3337,7 +1373,6 @@
     },
     "godot-v0_7_26": {
       "inputs": {
-        "compiler": "compiler_51",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3348,11 +1383,11 @@
       },
       "locked": {
         "dir": "v0_7_26",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3365,7 +1400,6 @@
     },
     "godot-v0_7_27": {
       "inputs": {
-        "compiler": "compiler_52",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3376,11 +1410,11 @@
       },
       "locked": {
         "dir": "v0_7_27",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3393,7 +1427,6 @@
     },
     "godot-v0_7_28": {
       "inputs": {
-        "compiler": "compiler_53",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3404,11 +1437,11 @@
       },
       "locked": {
         "dir": "v0_7_28",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3421,7 +1454,6 @@
     },
     "godot-v0_7_3": {
       "inputs": {
-        "compiler": "compiler_54",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3432,11 +1464,11 @@
       },
       "locked": {
         "dir": "v0_7_3",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3449,7 +1481,6 @@
     },
     "godot-v0_7_4": {
       "inputs": {
-        "compiler": "compiler_55",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3460,11 +1491,11 @@
       },
       "locked": {
         "dir": "v0_7_4",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3477,7 +1508,6 @@
     },
     "godot-v0_7_5": {
       "inputs": {
-        "compiler": "compiler_56",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3488,11 +1518,11 @@
       },
       "locked": {
         "dir": "v0_7_5",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3505,7 +1535,6 @@
     },
     "godot-v0_7_6": {
       "inputs": {
-        "compiler": "compiler_57",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3516,11 +1545,11 @@
       },
       "locked": {
         "dir": "v0_7_6",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3533,7 +1562,6 @@
     },
     "godot-v0_7_7": {
       "inputs": {
-        "compiler": "compiler_58",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3544,11 +1572,11 @@
       },
       "locked": {
         "dir": "v0_7_7",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3561,7 +1589,6 @@
     },
     "godot-v0_7_8": {
       "inputs": {
-        "compiler": "compiler_59",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3572,11 +1599,11 @@
       },
       "locked": {
         "dir": "v0_7_8",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3589,7 +1616,6 @@
     },
     "godot-v0_7_9": {
       "inputs": {
-        "compiler": "compiler_60",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3600,11 +1626,11 @@
       },
       "locked": {
         "dir": "v0_7_9",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3617,7 +1643,6 @@
     },
     "godot-v0_8_0": {
       "inputs": {
-        "compiler": "compiler_61",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3628,11 +1653,11 @@
       },
       "locked": {
         "dir": "v0_8_0",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3645,7 +1670,6 @@
     },
     "godot-v0_8_1": {
       "inputs": {
-        "compiler": "compiler_62",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3656,11 +1680,11 @@
       },
       "locked": {
         "dir": "v0_8_1",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3673,7 +1697,6 @@
     },
     "godot-v0_8_2": {
       "inputs": {
-        "compiler": "compiler_63",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3684,11 +1707,11 @@
       },
       "locked": {
         "dir": "v0_8_2",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3701,7 +1724,6 @@
     },
     "godot-v0_8_3": {
       "inputs": {
-        "compiler": "compiler_64",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3712,11 +1734,11 @@
       },
       "locked": {
         "dir": "v0_8_3",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3729,7 +1751,6 @@
     },
     "godot-v0_8_4": {
       "inputs": {
-        "compiler": "compiler_65",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3740,11 +1761,11 @@
       },
       "locked": {
         "dir": "v0_8_4",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3757,7 +1778,6 @@
     },
     "godot-v0_8_5": {
       "inputs": {
-        "compiler": "compiler_66",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
@@ -3768,11 +1788,11 @@
       },
       "locked": {
         "dir": "v0_8_5",
-        "lastModified": 1660783515,
-        "narHash": "sha256-oi7vJ173lah0U92VUEGhdqcwePZcp9gtp4RQXw1P5ZE=",
+        "lastModified": 1661561101,
+        "narHash": "sha256-IOgKFFe3zrp35Hy+ZLqq3Gzwi+esuZ7QWy2uANNjwYE=",
         "owner": "nim-nix-pkgs",
         "repo": "godot",
-        "rev": "d0db335185adfba2880da65507190cf405abe4b5",
+        "rev": "ec2f07bb667fa31235a647c1b8899060e762b529",
         "type": "github"
       },
       "original": {
@@ -3786,8 +1806,8 @@
     "nixpkgs": {
       "locked": {
         "lastModified": 0,
-        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
-        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
+        "narHash": "sha256-19Ib1b7Ny+yGhnxwnH1KhhB2hvALuNuqevA6XzqkQmo=",
+        "path": "/nix/store/5mdm97ryfgnsh02h7jiragdmcgh6vbvp-source",
         "type": "path"
       },
       "original": {
@@ -3865,1128 +1885,6 @@
         "godot-v0_8_4": "godot-v0_8_4",
         "godot-v0_8_5": "godot-v0_8_5",
         "nixpkgs": "nixpkgs"
-      }
-    },
-    "src-compiler-v1_6_6": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_10": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_11": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_12": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_13": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_14": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_15": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_16": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_17": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_18": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_19": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_2": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_20": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_21": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_22": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_23": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_24": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_25": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_26": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_27": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_28": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_29": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_3": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_30": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_31": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_32": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_33": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_34": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_35": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_36": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_37": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_38": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_39": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_4": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_40": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_41": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_42": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_43": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_44": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_45": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_46": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_47": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_48": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_49": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_5": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_50": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_51": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_52": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_53": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_54": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_55": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_56": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_57": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_58": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_59": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_6": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_60": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_61": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_62": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_63": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_64": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_65": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_66": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_7": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_8": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
-      }
-    },
-    "src-compiler-v1_6_6_9": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1651680931,
-        "narHash": "sha256-1SvCdI60kryyHwt30ks0NNUjixmG/FpxmcBL4z5lktk=",
-        "owner": "nim-lang",
-        "repo": "Nim",
-        "rev": "0565a70eab02122ce278b98181c7d1170870865c",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-lang",
-        "ref": "refs/tags/v1.6.6",
-        "repo": "Nim",
-        "type": "github"
       }
     },
     "src-godot-master": {
